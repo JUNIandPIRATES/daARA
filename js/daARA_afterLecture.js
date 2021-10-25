@@ -62,7 +62,7 @@ downloadResultBTN.addEventListener('click', e => {
       var value = obj[key];
       //console.log(key + ": " + value);
       save_data += value + '\n';
-      console.log(save_data);
+      //console.log(save_data);
     }
   }
  
