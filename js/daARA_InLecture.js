@@ -377,15 +377,11 @@ async function takeScreenShot() {
   //const photo_target = buffer;
   
 
-  console.log(S3imagesName + "에서 받아오기 시작")
   
   for (const item of S3imagesName) {
     var photo_source = class_name + "/" + item.toString();
     
     if(item == "예상 화면.png" || item == "screenshot.png" || item == "Black.png" ) continue;
-
-    console.log("s3에서 아이템을 받아오기 성공!")
-
     const params = {
       SourceImage: {
       S3Object: {
