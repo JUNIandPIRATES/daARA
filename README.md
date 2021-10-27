@@ -19,11 +19,11 @@ daARA Service is an automatic attendance check project for educator.
 
    2. [daARA PROJECT download](http://ec2-3-34-3-126.ap-northeast-2.compute.amazonaws.com/)
 
-      ![daARA](https://daara-reference.s3.ap-northeast-2.amazonaws.com/111.PNG)
+      ![download](https://user-images.githubusercontent.com/35029025/139011729-73e04ae3-311e-4a2c-9f18-a99a02e4fabf.png)
 
-   3. Unzip daARA PROJECT
+   3. Install daARA PROJECT
 
-      ![Unzip](https://daara-reference.s3.ap-northeast-2.amazonaws.com/222.PNG)
+      ![install](https://user-images.githubusercontent.com/35029025/139011882-55e1ddac-7b21-4255-9a21-79c7d14174d0.png)
 
 ***
 
@@ -31,9 +31,10 @@ daARA Service is an automatic attendance check project for educator.
 
 이미 강의가 업로드 되어 있다면 이 단계를 뛰어 넘어도 됩니다.
 
-   1. daARA PROJECT file에 다아라 출석 체크 프로그램 실행
+   1. 바탕화면에 설치된 **다아라 출석체크** 실행
 
-      ![daARA PROJECT file](https://daara-reference.s3.ap-northeast-2.amazonaws.com/333.PNG)
+
+      ![run Daara](https://user-images.githubusercontent.com/35029025/139012121-2e4b8a9d-2bb1-46c3-9230-8232b1d5f2f7.png)   
 
    2. daARA PROJECT에 회원 가입을 합니다.
 
